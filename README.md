@@ -1,7 +1,3 @@
-# linux-commands-guide
-A comprehensive guide to Linux commands and file system for beginners and intermediate users.
-
-
 # Linux Commands & File System Guide 
 
 This repository is a beginner-friendly guide to essential Linux commands and the file system structure.
